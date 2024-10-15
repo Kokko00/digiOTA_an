@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The circuit works by a voltage entered trough the input, and an amplified voltage is obtained at the output.
 
 ## How to test
 
-Explain how to use your project
+Entering voltage trough the input.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware used
